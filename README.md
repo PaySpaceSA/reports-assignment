@@ -1,6 +1,6 @@
 # Instructions:
 
-Using the provided setup.sql file and the scenario outlined below please provide answers to each question in single sql file for review 
+Using the provided setup.sql file and the scenario outlined below, please provide answers to each question in single sql file share it with TA Specialist you are working with via a Google Drive / similar link
 
 ## Scenario: 
 
